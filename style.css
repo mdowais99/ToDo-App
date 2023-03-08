@@ -186,7 +186,19 @@ body {
     .it-1{
         margin: 20px 30px;
     }
-    
+    .it-3{
+        float: right;
+        width: 55px;
+        height: 28px;
+        padding: 2px;
+    }
+    .it-4{
+        float: right;
+        width: 55px;
+        height: 28px;
+        padding: 2px;
+        margin-left: 5px;
+    }
 }
 
 /* @media(width<530px) {    
@@ -200,10 +212,10 @@ body {
         font-size: 0.6em;
     }
     .it-3{
-        width: 30px;
+        width: 48px;
     }
     .it-4{
-        width: 30px;
+        width: 48px;
     }
     
 }
