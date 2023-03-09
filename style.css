@@ -111,7 +111,7 @@ body {
 }
 .it-2{
     color: gray;
-    font-size: 0.7em;
+    font-size: 0.8em;
     margin-top: 29px;
     font-weight: 400;
     font-family: 'Courier New', Courier, monospace;
@@ -204,7 +204,7 @@ body {
 /* @media(width<530px) {    
 } */
 
-@media (width<400px) {
+@media (width<420px) {
     .it-1{
         margin: 10px 20px;
     }
